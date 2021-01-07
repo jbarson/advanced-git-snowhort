@@ -4,3 +4,4 @@
 
 git push -u origin nolan
 git commit -m "Don't change this line!"
+git log
